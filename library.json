@@ -1,0 +1,21 @@
+{
+    "name": "SequentRTD",
+    "version": "v0.0.1",
+    "description": "Description",
+    "keywords": "esphome RTD",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Fandu21/SequentRTD.git"
+    },
+    "authors": [
+      {
+        "name": "Fandu"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/Fandu21/SequentRTD",
+    "dependencies": {},
+    "frameworks": "*",
+    "platforms": "*"
+  }
+  
